@@ -1,4 +1,10 @@
-## Hi there 👋
+![cats!](https://i.pinimg.com/originals/e6/20/83/e62083244f28ed2024a09ac52db6bceb.gif)
+
+## Hey there! 👋 I'm Phoebe, a sophomore Info Science Student @ Cornell.
+
+I've always been interested in tech but haven't quite pinpointed what area. Here's my road to mastering **full-stack development**, practicing **data science** skills, and building some cool projects to make the every day a little bit easier :)
+
+Feel free to send me an email or connect on [Linkedin](http://linkedin.com/in/phoebe-wang28/)!
 
 <!--
 **phoebewang28/phoebewang28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
