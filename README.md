@@ -1,5 +1,6 @@
-![cats!](https://i.pinimg.com/originals/e6/20/83/e62083244f28ed2024a09ac52db6bceb.gif)
+<!--![](https://i.pinimg.com/originals/20/98/22/20982203dc928f8fad300cdeeb4d20b1.gif)-->
 
+![cat!](https://i.pinimg.com/originals/ac/66/43/ac6643e48c03be38c756ddb2baa0f4eb.gif)
 ## Hey there! 👋 I'm Phoebe, a sophomore Info Science Student @ Cornell.
 
 I've always been interested in tech but haven't quite pinpointed what area. Here's my road to mastering **full-stack development**, practicing **data science** skills, and building some cool projects to make the every day a little bit easier :)
