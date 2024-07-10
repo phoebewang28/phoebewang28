@@ -3,7 +3,7 @@
 ![cat!](https://i.pinimg.com/originals/ac/66/43/ac6643e48c03be38c756ddb2baa0f4eb.gif)
 ## Hey there! 👋 I'm Phoebe, a sophomore Info Science Student @ Cornell.
 
-I've always been interested in tech but haven't quite pinpointed what area. Here's my road to mastering **full-stack development**, practicing **data science** skills, and building some cool projects to make the every day a little bit easier :)
+I've always been interested in tech but haven't quite pinpointed what area. For now, my interests lie in developing security skills to protect data in an age of public, online information and developing my programming skills to be able to turn my imagination into reality. Here's my road to mastering **full-stack development**, practicing **data science** skills, and building some cool projects to make the every day a little bit easier :)
 
 Feel free to send me an email or connect on [Linkedin](http://linkedin.com/in/phoebe-wang28/)!
 
