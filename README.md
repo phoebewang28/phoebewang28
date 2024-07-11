@@ -1,11 +1,11 @@
 <!--![](https://i.pinimg.com/originals/20/98/22/20982203dc928f8fad300cdeeb4d20b1.gif)-->
 
 ![cat!](https://i.pinimg.com/originals/ac/66/43/ac6643e48c03be38c756ddb2baa0f4eb.gif)
-## Hey there! 👋 I'm Phoebe, a sophomore Info Science Student @ Cornell.
+## Hey there! 👋 I'm Phoebe, a sophomore Info Science Student @ Cornell University with concentrations in Data Science and Interactive Technologies.
 
 I've always been interested in tech but haven't quite pinpointed what area. For now, my interests lie in developing security skills to protect data in an age of public, online information and developing my programming skills to be able to turn my imagination into reality. Here's my road to mastering **full-stack development**, practicing **data science** skills, and building some cool projects to make the every day a little bit easier :)
 
-Feel free to send me an email or connect on [Linkedin](http://linkedin.com/in/phoebe-wang28/)!
+Feel free to send me an email at pw483@cornell.edu or connect on [Linkedin](http://linkedin.com/in/phoebe-wang28/)!
 
 <!--
 **phoebewang28/phoebewang28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
