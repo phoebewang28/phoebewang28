@@ -5,7 +5,7 @@
 
 <!-- I've always been interested in tech but haven't quite pinpointed what area. For now, my interests lie in developing security skills to protect data in an age of public, online information and developing my programming skills to be able to turn my imagination into reality. Here's my road to mastering **full-stack development**, practicing **data science** skills, and building some cool projects to make the every day a little bit easier :) -->
 
-Most of my projects are completed on my cornell coecis github, which cannot be public due to academic integrity purposes. If you are interested in seeing them, please feel free to send me an email at pw483@cornell.edu or connect on [Linkedin](http://linkedin.com/in/phoebe-wang28/)!
+Most of my recent projects are completed on my cornell coecis github, which cannot be public due to academic integrity purposes. If you are interested in seeing them, please feel free to send me an email at pw483@cornell.edu or connect on [Linkedin](http://linkedin.com/in/phoebe-wang28/)!
 
 <!--
 **phoebewang28/phoebewang28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
